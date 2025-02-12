@@ -1,0 +1,45 @@
+h1,
+h2 {
+    background-color: pink;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(231, 83, 108);
+    text-shadow: 2px 2px 5px rgb(255, 247, 248);
+}
+
+p {
+    color: rgb(231, 83, 108);
+    text-align: left;
+}
+
+hr {
+    height: 2px;
+    background-color: rgb(231, 83, 108);
+    margin: 2px;
+
+}
+
+img {
+    width: 250;
+    height: 250;
+    border-radius: 360%;
+    object-fit: cover;
+    border: 3px solid rgb(231, 83, 108);
+    justify-content: auto;
+    place-items: center;
+}
+
+ul li {
+    color: rgb(231, 83, 108);
+    background-color: rgba(255, 226, 231, 0.842);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 17px;
+}
+
+a {
+    background-color: pink;
+    border-radius: 5px;
+    color: rgb(231, 83, 108);
+}
